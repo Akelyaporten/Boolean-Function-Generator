@@ -1,2 +1,2 @@
 # Boolean-Function-Generator
-Boolean Function Dataset Generator
+Boolean Function Dataset Generator is a Python Code to create Huge data of Boolean Functions. Main target of the project is creating a Synthetic Dataset to test new Artificial Intelligence based Boolean minimization methods and comparing them with other classical methods. Created boolean Functions are completely random and not representative of any logic circuit. Example dataset also includes boolean functions with don't cares. For the convention "m" Represents minterms while "d" represents don't cares.
